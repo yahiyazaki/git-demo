@@ -10,5 +10,7 @@ here
 
 ## Website Contents
 
-1. index.htmll
+Here are the files in the website
+
+1. index.html
 
